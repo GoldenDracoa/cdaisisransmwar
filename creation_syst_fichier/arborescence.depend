@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1487931781 source:c:\users\ywoittequand\documents\mes documents personnels\arborescence\nom_chemin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<fcntl.h>
+	"nom_chemin.h"
+
+1487931800 c:\users\ywoittequand\documents\mes documents personnels\arborescence\nom_chemin.h
+
+1487930264 source:c:\users\ywoittequand\documents\mes documents personnels\arborescence\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nom_chemin.h"
+
+1488200138 source:c:\users\ransomware\documents\arborescence\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nom_chemin.h"
+
+1488200026 c:\users\ransomware\documents\arborescence\nom_chemin.h
+
+1488200026 source:c:\users\ransomware\documents\arborescence\nom_chemin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<fcntl.h>
+	"nom_chemin.h"
+
