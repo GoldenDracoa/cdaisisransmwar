@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1488620495 source:c:\users\ransomware\documents\v1_parcours_fichiers_windows\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<windows.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<fcntl.h>
+	<unistd.h>
+	"fonction_parcours.h"
+
+1488619615 c:\users\ransomware\documents\v1_parcours_fichiers_windows\fonction_parcours.h
+
+1488620559 source:c:\users\ransomware\documents\v1_parcours_fichiers_windows\fonction_parcours.c
+	<sys/types.h>
+	<dirent.h>
+	<errno.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<fcntl.h>
+	<unistd.h>
+	"fonction_parcours.h"
+
