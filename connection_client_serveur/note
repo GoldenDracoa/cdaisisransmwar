@@ -1,0 +1,3 @@
+compilation prog
+	gcc client_c_2.c -o client
+	./client 
